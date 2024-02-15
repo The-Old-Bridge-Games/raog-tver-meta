@@ -1,6 +1,6 @@
 {
-    "name": "raog_tver_meta",
-    "short_name": "raog_tver_meta",
+    "name": "raog-tver-meta",
+    "short_name": "raog-tver-meta",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
